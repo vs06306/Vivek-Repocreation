@@ -1,0 +1,3 @@
+We have clone from master 
+Now we will push in feature branch 
+then mearge in main branch
